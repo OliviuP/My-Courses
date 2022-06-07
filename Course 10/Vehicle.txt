@@ -1,0 +1,6 @@
+['Dacia', 2000, 'Logan', 'blue'] 
+['Honda', 6000, 'Civic 8', 'brown'] 
+['BMW', 10000, 'M3', 'black'] 
+['Mercedes', 11000, 'C Klassse', 'Red'] 
+['Alfa Rome', 6000, 'Julietta', 'grey'] 
+['Dacia', 5000, 'Duster', 'Grey'] 

@@ -1,0 +1,3 @@
+Dacia, 2000, Logan, blue, 
+Honda, 6000, Civic 8, brown, 
+BMW, 10000, M3, black, 
